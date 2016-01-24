@@ -1,3 +1,5 @@
 # tinkerit
-Automatically exported from code.google.com/p/tinkerit
+Automatically exported from 
+
+http://code.google.com/p/tinkerit
 
